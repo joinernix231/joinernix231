@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/joinernix231/joinernix21/blob/24eb551f464fc559f9cbbda9807b663ea30d7762/banner.png" alt="Joiner Davila - Backend Developer" width="100%"/>
+  <img src="https://github.com/joinernix231/joinernix231/blob/9320e7a1c5e066f54ba21b17cce232951bcf0f21/banner.png" alt="Joiner Davila - Backend Developer" width="100%"/>
 </p>
 <br/>
 
