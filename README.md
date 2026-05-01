@@ -45,8 +45,9 @@ Solved N+1 query issues reducing DB calls from ~90 to 1.
 `Laravel` `Angular` `MySQL` `Docker` `Clean Architecture`
 
 ### 🏢 [Impeercol – Corporate Web Platform](https://github.com/joinernix231/impeercol-laravel)
-Corporate platform with public site and admin panel for products and company content.  
-`Laravel 11` `MySQL` `Authentication` `File Management`
+Production platform for an impermeabilization company — live at [impeercol.com.co](https://impeercol.com.co).  
+Full product catalog with 80+ SKUs, admin panel, SEO, image management and relational DB logic.  
+`Laravel 11` `Blade` `MySQL` `Admin Panel` `Production`
 
 ---
 
